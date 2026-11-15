@@ -1,4 +1,4 @@
-# Mass Market Car Price Prediction (Australia)
+# Mass Market Car Price Prediction
  
 Machine learning project to estimate the fair market price of mass-market vehicles from Australian listings, using age, mileage and physical specifications. The goal is an accurate and explainable model that helps buyers and sellers judge whether a car is fairly priced.
  
